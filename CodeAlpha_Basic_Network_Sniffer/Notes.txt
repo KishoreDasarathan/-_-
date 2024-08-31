@@ -1,0 +1,11 @@
+Basic Network Sniffer
+This mini project is a basic network sniffer built in Python using the scapy library. It captures and analyzes network traffic, focusing on specific protocols like TCP and UDP. The script identifies the source and destination IP addresses and ports, providing insights into the data flow on a network. You can filter the captured traffic by protocols or ports, making it versatile for various network analysis tasks. Running the script with administrator privileges is necessary to capture live network packets.
+
+To run this script
+
+1.download this python file https://github.com/KishoreDasarathan/CodeAlpha_Network_Sniffer/blob/main/basic_sniffer.py
+
+2.pip install scapy
+
+3.sudo python3 basic_sniffer.py
+
