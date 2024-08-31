@@ -1,0 +1,16 @@
+Secure Coding Review
+This project involves selecting a programming language and reviewing the code of an application for security vulnerabilities. You'll identify potential risks using tools like static code analyzers or through manual code review. The goal is to assess the code's security posture and provide recommendations for secure coding practices. By addressing identified issues, you enhance the application's resilience against attacks. This project is crucial for ensuring that software is developed with robust security in mind.
+
+To run this script
+1.download this python file https://github.com/KishoreDasarathan/CodeAlpha_Code_Review/blob/main/xss_vulnerable_site.py
+2.FLASK_APP=xss_vulnerable_site.py flask run
+3.copy the url and run in browser
+
+
+
+Mitigation/prevention steps 
+1.validate inputs
+2.sanitize data
+3.use Web Application Firewall(WAF)
+4.Restrict input
+
