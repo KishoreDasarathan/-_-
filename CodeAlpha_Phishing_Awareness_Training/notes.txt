@@ -1,0 +1,2 @@
+Phishing Awareness Training
+This mini-project involves creating a comprehensive presentation or online training module to educate individuals about phishing attacks. The module covers the identification of phishing emails, websites, and social engineering tactics, emphasizing practical ways to recognize and avoid such threats. It also includes real-world examples, best practices for protection, and an interactive quiz to reinforce learning. The project aims to enhance cybersecurity awareness and promote safe online practices.
